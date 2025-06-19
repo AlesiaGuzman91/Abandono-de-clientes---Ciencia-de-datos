@@ -54,8 +54,13 @@ Relación entre los tipos de servicios contratados y el abandono.
 
 
 Pitón 🐍
+
 Pandas 📚
+
 NumPy 🔢
+
 Matplotlib y Seaborn 📊
+
 Scikit-learn 🤖
+
 Google Colab ☁️
