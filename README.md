@@ -16,6 +16,8 @@ Para ello, se empleará el dataset público Telco Customer Churn de Kaggle , que
 
 
 Exploración y Transformación
+
+
 Mostrar los primeros 5 registros
 Mostrar los últimos 5 registros
 Mostrar tipos de datos por columna
@@ -24,7 +26,10 @@ Mostrar Dimensiones del conjunto de datos
 Transformación de columna TotalCharges en numérica
 Mostrar resumen estadístico de las columnas
 Sumar cantidad de nulos por columna
+
+
 Análisis
+
 Cálculo del promedio de meses de permanencia
 Cálculo del porcentaje de abandono general
 Cálculo del estimado que gasto el cliente durante su tiempo de permanencia.
@@ -32,14 +37,22 @@ Realizamos detección de valores atípicos
 Cálculo de porcentaje de permanencia en relación con el Método de Pago
 Cálculo de porcentaje de permanencia en relación con el Tipo de Contrato
 Cálculo de porcentaje de permanencia en relación con el Tipo de Servicio de Internet
+
+
 Gráficos
+
+
 Gasto mensual que poseen los clientes
 Antigüedad de clientes
 Relación entre tipo de contrato y abandono
 Relación entre género y abandono
 Relación entre gasto mensual y abandono
 Relación entre los tipos de servicios contratados y el abandono.
+
+
 🛠️ Herramientas utilizadas
+
+
 Pitón 🐍
 Pandas 📚
 NumPy 🔢
