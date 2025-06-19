@@ -1,4 +1,4 @@
-# Título nivel 1 Introducción
+# Introducción
 
 
 En las empresas de las telecomunicaciones, retener clientes es tan importante como adquirir nuevos. El abandono de clientes (churn) representa una pérdida significativa de ingresos para las empresas del sector. Comprender los factores que influyen en la decisión de un cliente de cancelar un servicio se vuelve clave para anticipar comportamientos futuros y tomar acciones preventivas.
